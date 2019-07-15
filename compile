@@ -1,0 +1,3 @@
+#!/bin/bash
+./compile-server
+./compile-client
